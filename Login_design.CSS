@@ -1,0 +1,73 @@
+body{
+
+    background-image: url(images/bg.png);
+    background-size: cover;
+}
+
+#box
+{
+ height: 400px;
+ width: 400px;
+ background-color: rgba(0,0,0,0.1);
+ border-radius: 50px;
+ box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+ position: relative;
+ left: 430px;
+ top: 120px;
+}
+
+
+
+marquee
+{
+    margin-bottom: -5px;
+    text-align: center;
+    font-family: 'Titillium Web', sans-serif;
+    color: #000;
+    font-weight: bolder;
+
+}
+form
+{
+    text-align: center;
+    padding-top: 20px;
+     
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+   text-shadow: rgba(0, 0, 0, 0.966);
+   color: black;
+   
+   
+}
+
+.align
+{
+    
+  margin-bottom: 10px;
+  outline: none;
+   border-left: none;
+   border-right: none;
+   border-top: none;
+   background: transparent;
+   border-bottom: solid #fff;
+   font-size: 15px;
+   letter-spacing: 2px;
+   
+}
+
+#submit {
+    background-color: chocolate;
+    text-shadow: rgba(255, 254, 254, 0.966);
+    font-family: 'Raleway', sans-serif;
+       color: beige;
+       width: 130px;
+       height: 40px;
+ }
+
+ #link:hover
+ 
+ {
+     color: red;
+ }
+ 

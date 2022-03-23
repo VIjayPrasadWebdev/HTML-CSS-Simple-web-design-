@@ -1,0 +1,70 @@
+body
+{ 
+    background-image: url(images/bg.png);
+    background-size: cover;
+    
+}
+
+
+
+#design
+{
+    height: 730px;
+    width: 500px;
+
+    position: relative;
+    left: 400px;
+    background-color: rgba(0,0,0,0.4);
+    border-radius: 20px;
+    box-shadow: 2px, 2px, 8px, 0px, rgba(0,0,0,0.3);
+
+}
+
+#design2
+{
+       text-align: center;
+       
+       padding-top: 30px;
+       
+       font-family: 'Raleway', sans-serif;
+       font-weight: bold;
+       font-size: 20px;
+      text-shadow: rgba(255, 254, 254, 0.966);
+      color: beige;
+      
+    
+}
+
+
+a :hover{
+     color: red;
+}
+marquee 
+{
+   text-shadow: rgba(0, 0, 0, 0.966);
+   color : black;
+   font-weight: bolder;
+}
+
+#submit
+{
+   background-color: chocolate;
+   text-shadow: rgba(255, 254, 254, 0.966);
+      color: beige;
+      width: 130px;
+      height: 40px;
+}
+
+#logo
+{
+   position: absolute;
+   left: 780px;
+  top: 440px;
+  
+}
+#logo1
+{
+   position: absolute;
+   left: 460px;
+   top: 440px;
+}
